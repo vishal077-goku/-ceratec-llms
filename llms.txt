@@ -35,7 +35,7 @@
 - Home: https://ceratecgroup.com
 - All projects: https://ceratecgroup.com/ongoing-project
 - Completed projects: https://ceratecgroup.com/completed-project
-- About us: https://ceratecgroup.com/who-we-are
+- About us: https://www.ceratecgroup.com/overview
 - Contact: https://ceratecgroup.com/contact-us
 - EMI calculator: https://ceratecgroup.com/emi-calculator
 - Flats in Hinjewadi: https://ceratecgroup.com/flats-in-hinjewadi
